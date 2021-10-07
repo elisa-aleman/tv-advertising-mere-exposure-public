@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Product_Category
+0,WOWOW,Broadcasting Service
+1,スカパー,Broadcasting Service
+2,TSUTAYA ディスカス,Entertainment Rental Service
+3,Netflix,Media-Services Provider
+4,Hulu,Media-Services Provider
+5,ディアボーテ HIMAWARI,Toiletries
+6,ジュレーム,Toiletries
+7,ラックス ルミニーク,Toiletries
+8,ボタニスト,Toiletries
+9,Essential,Toiletries
+10,TSUBAKI,Toiletries
+11,PANTENE,Toiletries
+12,いち髪 スタイリングシリーズ,Toiletries
+13,リーゼ スタイリングシリーズ,Toiletries
+14,サラ スタイリングシリーズ,Toiletries
+15,マシェリ スタイリングシリーズ,Toiletries
+16,ハーゲンダッツ ミニカップ バニラ,Food and Drink
+17,ハーゲンダッツ ミニカップ ストロベリー,Food and Drink
+18,ハーゲンダッツ ミニカップ グリーンティー,Food and Drink
+19,ハーゲンダッツ ミニカップ チョコレートブラウニー,Food and Drink
+20,ヤクルト400,Food and Drink
+21,ジョア,Food and Drink
+22,明治プロビオヨーグルトR-1 ドリンクタイプ,Food and Drink
+23,明治プロビオヨーグルトLG21 ドリンクタイプ,Food and Drink
+24,明治ブルガリアヨーグルト ドリンクタイプ,Food and Drink
+25,恵 ガセリ菌SP株ヨーグルト ドリンクタイプ,Food and Drink
+26,ガーナ,Food and Drink
+27,meijiシリーズ,Food and Drink
+28,ポッキーシリーズ,Food and Drink
+29,キットカット,Food and Drink
+30,ダース,Food and Drink
+31,タフマン,Supplements
+32,リポビタンD,Supplements
+33,オロナミンC,Supplements
+34,チオビタドリンク,Supplements
+35,アリナミンＶ,Supplements
+36,レッドブル,Food and Drink
+37,ストナリニS,Pharmaceutical Drugs
+38,アレジオン10,Pharmaceutical Drugs
+39,クラリチンEX,Pharmaceutical Drugs
+40,パブロン鼻炎カプセルSα,Pharmaceutical Drugs
+41,アレグラFX,Pharmaceutical Drugs
+42,マキアージュ ドラマティックパウダリーUV,Cosmetics
+43,ベネフィーク ハイドロジーニアス,Cosmetics
+44,アルビオン エクラフチュール,Cosmetics
+45,コスメデコルテ モイスチュアリポソーム,Cosmetics
+46,プリマヴィスタ きれいな素肌質感パウダーファンデーション,Cosmetics
+47,アクアレーベルの化粧水,Cosmetics
+48,肌ラボの化粧水,Cosmetics
+49,キュレルの化粧水,Cosmetics
+50,インテグレート リアルフィットリキッド,Cosmetics
+51,ケイト パウダレスリキッド,Cosmetics
+52,ちふれ,Cosmetics
+53,オルビス,Cosmetics
+54,ケイト,Cosmetics
+55,タウンワーク,Human Resource Services
+56,フロム・エー　ナビ,Human Resource Services
+57,an,Human Resource Services
+58,バイトル,Human Resource Services
+59,マイナビバイト,Human Resource Services
+60,LINEバイト,Human Resource Services
+61,ENEOSの電力販売,Utility Services
+62,ソフトバンクの電力販売,Utility Services
+63,auの電力販売,Utility Services
+64,東京ガスの電力販売,Utility Services
+65,東急の電力販売,Utility Services
+66,アロエステ,Food and Drink
+67,森永アロエヨーグルトシリーズ,Food and Drink
+68,明治アミノコラーゲンヨーグルトシリーズ,Food and Drink
+69,明治プロビオヨーグルトＲ－１シリーズ,Food and Drink
+70,資生堂 ザ・コラーゲンシリーズ,Supplements
+71,フィラデルフィア 贅沢3層仕立ての濃厚クリーミーチーズ,Food and Drink
+72,クラフト ワールドセレクト,Food and Drink
+73,雪印メグミルク スライスチーズ,Food and Drink
+74,雪印メグミルク とろけるスライス,Food and Drink
+75,雪印メグミルク こんがり焼ける とろけるスライス,Food and Drink
+76,フィラデルフィア クリームチーズ 6P,Food and Drink
+77,フィラデルフィア クリームチーズ 200g,Food and Drink
+78,明治北海道十勝贅沢スライスチーズシリーズ,Food and Drink
+79,arrows NX F-01J,Smartphones
+80,Xperia XZ,Smartphones
+81,Galaxy S7,Smartphones
+82,AQUOS ZETA,Smartphones
+83,iPhone,Smartphones
+84,らくらくスマートフォン,Smartphones
+85,シンプルスマホ,Smartphones
+86,ＡＮＡの旅割,Travel Agency
+87,ＪＡＬの先得割引,Travel Agency
+88,JALパック,Travel Agency
+89,ANAスカイホリデー・ハローツアー,Travel Agency
+90,JTB,Travel Agency
+91,H.I.S.,Travel Agency
+92,鹿島建設,Construction Companies
+93,清水建設,Construction Companies
+94,大成建設,Construction Companies
+95,大林組,Construction Companies
+96,竹中工務店,Construction Companies
+97,ドコモの学割,Mobile Phone Companies
+98,auの学割天国,Mobile Phone Companies
+99,ソフトバンクの学割　SUPER STUDENT,Mobile Phone Companies
+100,NTTドコモ,Mobile Phone Companies
+101,au,Mobile Phone Companies
+102,SoftBank,Mobile Phone Companies
+103,NTTドコモのはじめてスマホ割,Mobile Phone Companies
+104,auスマホはじめるプログラム,Mobile Phone Companies
+105,SoftBankのスマホデビュー割,Mobile Phone Companies
+106,アサヒ スーパードライ,Alcoholic Beverages
+107,サントリー ザ・プレミアム・モルツ,Alcoholic Beverages
+108,キリン 一番搾り生ビール,Alcoholic Beverages
+109,ヱビスビール,Alcoholic Beverages
+110,サントリー ザ・モルツ,Alcoholic Beverages
+111,キリンラガービール,Alcoholic Beverages
+112,サッポロ 生ビール黒ラベル,Alcoholic Beverages
+113,麦とホップ The gold,Alcoholic Beverages
+114,金麦,Alcoholic Beverages
+115,キリン のどごし<生>,Alcoholic Beverages
+116,クリアアサヒ,Alcoholic Beverages
+117,淡麗極上〈生〉,Alcoholic Beverages
+118,アネッサ,Sun Block
+119,アリィー,Sun Block
+120,スポーツ ビューティ,Sun Block
+121,マクドナルド,Chain Restaurants
+122,モスバーガー,Chain Restaurants
+123,ケンタッキーフライドチキン,Chain Restaurants
+124,デニーズ,Chain Restaurants
+125,ガスト,Chain Restaurants
+126,サイゼリヤ,Chain Restaurants
+127,吉野家,Chain Restaurants
+128,すき家,Chain Restaurants
+129,はなまるうどん,Chain Restaurants
+130,丸亀製麺,Chain Restaurants
+131,東京海上日動,Insurance Companies
+132,損保ジャパン日本興亜,Insurance Companies
+133,三井住友海上,Insurance Companies
+134,ソニー損保,Insurance Companies
+135,イーデザイン損保,Insurance Companies
+136,ピーチ・ジョン,Clothing
+137,Ravijour,Clothing
+138,２ウィーク アキュビュー,Contact Lenses
+139,ワンデー アキュビュー,Contact Lenses
+140,２ＷＥＥＫメニコン プレミオ,Contact Lenses
+141,１ＤＡＹ メニコン プレミオ,Contact Lenses
+142,Magic 1dayメニコン フラットパック,Contact Lenses
+143,ヤマザキ 超芳醇,Food and Drink
+144,ヤマザキ ロイヤルブレッド,Food and Drink
+145,Pasco 超熟,Food and Drink
+146,フジパン 本仕込,Food and Drink
+147,ランチパック,Food and Drink
+148,earth music&ecology,Clothing
+149,ジーユー,Clothing
+150,しまむら,Clothing
+151,グローバルワーク,Clothing
+152,ユニクロ,Clothing
+153,爽健美茶,Food and Drink
+154,伊右衛門,Food and Drink
+155,生茶,Food and Drink
+156,お～いお茶,Food and Drink
+157,十六茶,Food and Drink
+158,果汁グミ,Food and Drink
+159,ピュレグミ,Food and Drink
+160,コカ・コーラ,Food and Drink
+161,コカ・コーラ ゼロ,Food and Drink
+162,ペプシ,Food and Drink
+163,三ツ矢サイダー,Food and Drink
+164,ファンタ,Food and Drink
+165,オランジーナ,Food and Drink
+166,ハニーレモンジーナ,Food and Drink
+167,キリン メッツ,Food and Drink
+168,キリン メッツ コーラ,Food and Drink
+169,C．C．レモン,Food and Drink
+170,新生銀行レイク,Banking and Finance
+171,プロミス,Banking and Finance
+172,アコム,Banking and Finance
+173,アイフル,Banking and Finance
+174,明治ヘルシーソフト オフスタイル,Food and Drink
+175,雪印ネオソフト,Food and Drink
+176,クリーミースム～ス,Food and Drink
+177,明治ぬってから焼く！チーズがこんがりソフト,Food and Drink
+178,ジムビーム,Alcoholic Beverages
+179,ジャックダニエル,Alcoholic Beverages
+180,キリン 氷結,Alcoholic Beverages
+181,-196℃,Alcoholic Beverages
+182,キリン ビターズ,Alcoholic Beverages
+183,角ハイボール,Alcoholic Beverages
+184,トリス ハイボール,Alcoholic Beverages
+185,ウメッシュ,Alcoholic Beverages
+186,酔わないウメッシュ,Alcoholic Beverages
+187,さらりとした梅酒,Alcoholic Beverages
+188,リクナビNEXT,Human Resource Services
+189,マイナビ転職,Human Resource Services
+190,エン転職,Human Resource Services
+191,DODA,Human Resource Services
+192,ビズリーチ,Human Resource Services
+193,SUUMO,Real Estate Services
+194,アットホーム,Real Estate Services
+195,HOME'S,Real Estate Services
+196,CHINTAI,Real Estate Services
+197,いい部屋ネット,Real Estate Services
+198,めちゃコミック,E-book Service
+199,まんが王国,E-book Service

@@ -1,0 +1,5 @@
+﻿Prediction Target,Product List,Category 0,Category 1,Category 2,Category 3,Category 4,Category 5
+Actual Purchase,All products (200),0.062315,0.728491667,0.081078333,0.128115,0.209193333,0.790806667
+Purchase Intention,All products (200),0.075793333,0.589885,0.09104,0.243281667,0.334321667,0.665678333
+Actual Purchase,Advert matched products (38),0.064587719,0.765166667,0.072833333,0.097412281,0.170245614,0.829754386
+Purchase Intention,Advert matched products (38),0.077008772,0.584438596,0.084298246,0.254254386,0.338552632,0.661447368
